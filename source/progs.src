@@ -1,0 +1,57 @@
+../progs.dat
+
+defs.qc
+
+waypoints/map_dm1.qc
+waypoints/map_dm2.qc
+waypoints/map_dm3.qc
+waypoints/map_dm4.qc
+waypoints/map_dm5.qc
+waypoints/map_dm6.qc
+
+frikbot/bot.qc
+frikbot/bot_way.qc
+frikbot/bot_fight.qc 
+frikbot/bot_ai.qc
+frikbot/bot_misc.qc
+frikbot/bot_phys.qc
+frikbot/bot_move.qc
+frikbot/bot_ed.qc
+
+log.qc		//Console logging of game actions
+ctfgame.qc	//CTF
+ctf.qc		//CTF
+kascam.qc
+runes.qc
+subs.qc
+combat.qc
+
+display.qc	//GeN: help display
+aliases.qc	//GeN: setting aliases
+voting.qc	//GeN: level voting was here
+scoreboard.qc	//GeN: scoreboard manipulations
+impulses.qc	//GeN: uh, impulses
+gen_misc.qc	//GeN: stuff =)
+teamplay.qc	//GeN: teamplay stuff
+motd.qc		//GeN: message of the day
+headgames.qc	//GeN: get-head and shamblerhead
+id.qc		//GeN: identify player (as in Q3)
+
+
+items.qc
+
+weapons.qc
+world.qc
+client.qc
+
+observer.qc	//GeN: observer stuff
+hook.qc		//hook.qc was here
+
+player.qc
+doors.qc
+buttons.qc
+triggers.qc
+plats.qc
+misc.qc
+
+

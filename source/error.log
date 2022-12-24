@@ -1,0 +1,43 @@
+warning: frikbot/bot.qc:328:client redeclared on different scope (see original definition defs.qc(731))
+warning: frikbot/bot.qc:364:client redeclared on different scope (see original definition defs.qc(731))
+warning: frikbot/bot_phys.qc:450:droptofloor: Too few parameters. See definition defs.qc(865)
+warning: frikbot/bot_phys.qc:473:droptofloor: Too few parameters. See definition defs.qc(865)
+warning: ctf.qc:658:droptofloor: Too few parameters. See definition defs.qc(865)
+warning: subs.qc:25:SetMovedir: not all control paths return a value
+warning: combat.qc:203:zone redeclared on different scope (see original definition frikbot/bot_ed.qc(1450))
+warning: gen_misc.qc:486:zone redeclared on different scope (see original definition frikbot/bot_ed.qc(1450))
+warning: gen_misc.qc:520:vec redeclared
+warning: gen_misc.qc:877:Assignment to constant
+warning: gen_misc.qc:985:Assignment to constant
+warning: gen_misc.qc:986:Assignment to constant
+warning: gen_misc.qc:990:Assignment to constant
+warning: gen_misc.qc:991:Assignment to constant
+warning: gen_misc.qc:1008:Assignment to constant
+warning: gen_misc.qc:1010:Assignment to constant
+warning: gen_misc.qc:1013:Assignment to constant
+warning: gen_misc.qc:1015:Assignment to constant
+warning: teamplay.qc:550:sp redeclared
+warning: headgames.qc:14:droptofloor: Too few parameters. See definition defs.qc(865)
+warning: headgames.qc:163:droptofloor: Too few parameters. See definition defs.qc(865)
+warning: id.qc:40:Assignment to constant
+warning: id.qc:45:Assignment to constant
+warning: items.qc:45:droptofloor: Too few parameters. See definition defs.qc(865)
+warning: weapons.qc:50:zone redeclared on different scope (see original definition frikbot/bot_ed.qc(1450))
+warning: weapons.qc:103:org redeclared
+warning: weapons.qc:368:zone redeclared on different scope (see original definition frikbot/bot_ed.qc(1450))
+warning: weapons.qc:463:zone redeclared on different scope (see original definition frikbot/bot_ed.qc(1450))
+warning: weapons.qc:608:zone redeclared on different scope (see original definition frikbot/bot_ed.qc(1450))
+warning: weapons.qc:782:zone redeclared on different scope (see original definition frikbot/bot_ed.qc(1450))
+warning: weapons.qc:826:zone redeclared on different scope (see original definition frikbot/bot_ed.qc(1450))
+warning: weapons.qc:1862:Assignment to constant
+warning: weapons.qc:1864:Assignment to constant
+warning: weapons.qc:1866:Assignment to constant
+warning: weapons.qc:1868:Assignment to constant
+warning: weapons.qc:1870:Assignment to constant
+warning: client.qc:148:FindIntermission: not all control paths return a value
+warning: client.qc:981:Assignment in conditional
+warning: misc.qc:270:No operation performed
+warning: misc.qc:299:zone redeclared on different scope (see original definition frikbot/bot_ed.qc(1450))
+warning: misc.qc:343:droptofloor: Too few parameters. See definition defs.qc(865)
+warning: misc.qc:375:droptofloor: Too few parameters. See definition defs.qc(865)
+warning: misc.qc:630:makestatic: Too few parameters. See definition defs.qc(913)
